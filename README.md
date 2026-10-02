@@ -34,11 +34,20 @@ Offshore wind sited in federal waters beyond the 12-nautical-mile limit is regis
 
 ## Charts
 
-- `chart_capacity_growth_stacked.png` - cumulative installed capacity by technology, 2010-2024 (stacked area)
-- `chart_annual_additions.png` - new capacity commissioned each year by technology, showing the boom/bust/boom cycle
-- `chart_capacity_per_capita_by_state.png` - installed renewable capacity per 100,000 residents, ranked by state
-- `chart_tech_mix_by_state.png` - wind share vs. solar share of each state's renewable mix
-- `dashboard_preview.png` - combined summary dashboard
+![Combined summary dashboard](charts/dashboard_preview.png)
+*Combined summary dashboard*
+
+![Cumulative installed capacity by technology, 2010-2024](charts/chart_capacity_growth_stacked.png)
+*Cumulative installed capacity by technology, 2010-2024 (stacked area)*
+
+![New capacity commissioned each year by technology](charts/chart_annual_additions.png)
+*New capacity commissioned each year by technology, showing the boom/bust/boom cycle*
+
+![Installed renewable capacity per 100,000 residents by state](charts/chart_capacity_per_capita_by_state.png)
+*Installed renewable capacity per 100,000 residents, ranked by state*
+
+![Wind share vs. solar share of each state's renewable mix](charts/chart_tech_mix_by_state.png)
+*Wind share vs. solar share of each state's renewable mix*
 
 ## Caveats
 
