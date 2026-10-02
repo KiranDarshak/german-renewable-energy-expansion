@@ -1,0 +1,399 @@
+Bundesland,technology,year,capacity_removed_mw
+Baden-Württemberg,Biomass,2008.0,0.03
+Baden-Württemberg,Biomass,2009.0,0.06
+Baden-Württemberg,Biomass,2014.0,0.2
+Baden-Württemberg,Biomass,2015.0,1.0
+Baden-Württemberg,Biomass,2018.0,0.488
+Baden-Württemberg,Biomass,2019.0,6.6297
+Baden-Württemberg,Biomass,2020.0,6.611
+Baden-Württemberg,Biomass,2021.0,6.347
+Baden-Württemberg,Biomass,2022.0,3.0624
+Baden-Württemberg,Biomass,2023.0,4.2001
+Baden-Württemberg,Biomass,2024.0,4.9658
+Baden-Württemberg,Biomass,2025.0,0.1
+Baden-Württemberg,Hydropower,2019.0,0.016
+Baden-Württemberg,Hydropower,2020.0,1.722
+Baden-Württemberg,Hydropower,2021.0,0.291
+Baden-Württemberg,Hydropower,2022.0,0.121
+Baden-Württemberg,Hydropower,2023.0,0.26849999999999996
+Baden-Württemberg,Hydropower,2024.0,0.5903
+Baden-Württemberg,Solar,1993.0,0.001908
+Baden-Württemberg,Solar,2005.0,0.017513
+Baden-Württemberg,Solar,2006.0,0.0115
+Baden-Württemberg,Solar,2007.0,0.0882
+Baden-Württemberg,Solar,2008.0,0.043925
+Baden-Württemberg,Solar,2011.0,0.0088
+Baden-Württemberg,Solar,2012.0,0.0012
+Baden-Württemberg,Solar,2013.0,2.599
+Baden-Württemberg,Solar,2014.0,0.76081
+Baden-Württemberg,Solar,2016.0,0.012270000000000001
+Baden-Württemberg,Solar,2017.0,0.029358000000000002
+Baden-Württemberg,Solar,2018.0,0.04372
+Baden-Württemberg,Solar,2019.0,1.9577449999999998
+Baden-Württemberg,Solar,2020.0,0.841172
+Baden-Württemberg,Solar,2021.0,2.288577
+Baden-Württemberg,Solar,2022.0,2.738899
+Baden-Württemberg,Solar,2023.0,3.87039
+Baden-Württemberg,Solar,2024.0,7.412768
+Baden-Württemberg,Solar,2025.0,0.783774
+Baden-Württemberg,Wind onshore,2009.0,2.0
+Baden-Württemberg,Wind onshore,2013.0,1.5
+Baden-Württemberg,Wind onshore,2019.0,1.501
+Baden-Württemberg,Wind onshore,2020.0,4.55
+Baden-Württemberg,Wind onshore,2021.0,4.1063
+Baden-Württemberg,Wind onshore,2022.0,0.014000000000000002
+Baden-Württemberg,Wind onshore,2023.0,6.3506
+Baden-Württemberg,Wind onshore,2024.0,5.4026000000000005
+Baden-Württemberg,Wind onshore,2025.0,1.8
+Bayern,Biomass,2010.0,0.19
+Bayern,Biomass,2011.0,0.0297
+Bayern,Biomass,2013.0,0.1
+Bayern,Biomass,2014.0,0.352
+Bayern,Biomass,2016.0,0.4
+Bayern,Biomass,2017.0,0.049
+Bayern,Biomass,2018.0,0.844
+Bayern,Biomass,2019.0,5.8873
+Bayern,Biomass,2020.0,6.3185
+Bayern,Biomass,2021.0,14.5495
+Bayern,Biomass,2022.0,7.7103
+Bayern,Biomass,2023.0,32.3498
+Bayern,Biomass,2024.0,14.1813
+Bayern,Biomass,2025.0,1.0284
+Bayern,Hydropower,2013.0,0.022
+Bayern,Hydropower,2014.0,0.01
+Bayern,Hydropower,2019.0,0.015300000000000001
+Bayern,Hydropower,2020.0,0.0075
+Bayern,Hydropower,2021.0,73.7465
+Bayern,Hydropower,2022.0,12.3635
+Bayern,Hydropower,2023.0,0.02
+Bayern,Hydropower,2024.0,0.189
+Bayern,Hydropower,2025.0,0.005
+Bayern,Solar,2001.0,0.0011
+Bayern,Solar,2003.0,0.00688
+Bayern,Solar,2004.0,0.00624
+Bayern,Solar,2008.0,0.00054
+Bayern,Solar,2009.0,0.04199
+Bayern,Solar,2010.0,0.031310000000000004
+Bayern,Solar,2014.0,0.00621
+Bayern,Solar,2015.0,0.0297
+Bayern,Solar,2016.0,0.007859999999999999
+Bayern,Solar,2018.0,0.0028799999999999997
+Bayern,Solar,2019.0,1.341953
+Bayern,Solar,2020.0,1.545352
+Bayern,Solar,2021.0,2.362003
+Bayern,Solar,2022.0,4.555404
+Bayern,Solar,2023.0,5.311526
+Bayern,Solar,2024.0,20.597830000000002
+Bayern,Solar,2025.0,1.465458
+Bayern,Wind onshore,2014.0,0.001
+Bayern,Wind onshore,2019.0,0.0062499999999999995
+Bayern,Wind onshore,2020.0,0.00608
+Bayern,Wind onshore,2021.0,2.00153
+Bayern,Wind onshore,2022.0,0.0159
+Bayern,Wind onshore,2023.0,2.6934
+Bayern,Wind onshore,2024.0,4.11298
+Berlin,Biomass,2023.0,0.5660000000000001
+Berlin,Solar,2012.0,0.0010500000000000002
+Berlin,Solar,2019.0,0.19981
+Berlin,Solar,2020.0,0.0064600000000000005
+Berlin,Solar,2021.0,0.177978
+Berlin,Solar,2022.0,0.303946
+Berlin,Solar,2023.0,0.217594
+Berlin,Solar,2024.0,0.750426
+Berlin,Solar,2025.0,0.019710000000000002
+Brandenburg,Biomass,2017.0,0.639
+Brandenburg,Biomass,2018.0,0.8
+Brandenburg,Biomass,2019.0,0.5369999999999999
+Brandenburg,Biomass,2020.0,0.251
+Brandenburg,Biomass,2021.0,0.522
+Brandenburg,Biomass,2022.0,6.9079999999999995
+Brandenburg,Biomass,2023.0,3.283
+Brandenburg,Biomass,2024.0,0.35
+Brandenburg,Solar,2018.0,0.009689999999999999
+Brandenburg,Solar,2019.0,1.033244
+Brandenburg,Solar,2020.0,1.5364499999999999
+Brandenburg,Solar,2021.0,0.103924
+Brandenburg,Solar,2022.0,1.037163
+Brandenburg,Solar,2023.0,1.16974
+Brandenburg,Solar,2024.0,0.947052
+Brandenburg,Solar,2025.0,0.042621
+Brandenburg,Wind onshore,2015.0,0.6
+Brandenburg,Wind onshore,2019.0,2.6
+Brandenburg,Wind onshore,2020.0,34.55
+Brandenburg,Wind onshore,2021.0,27.35
+Brandenburg,Wind onshore,2022.0,36.55
+Brandenburg,Wind onshore,2023.0,28.771
+Brandenburg,Wind onshore,2024.0,34.70225
+Brandenburg,Wind onshore,2025.0,7.37
+Bremen,Solar,2019.0,0.1164
+Bremen,Solar,2020.0,0.01124
+Bremen,Solar,2021.0,0.01056
+Bremen,Solar,2022.0,0.01465
+Bremen,Solar,2023.0,0.06579800000000001
+Bremen,Solar,2024.0,0.07378
+Bremen,Solar,2025.0,0.0027
+Bremen,Wind onshore,2023.0,2.0
+Hamburg,Biomass,2022.0,0.15
+Hamburg,Biomass,2023.0,20.0
+Hamburg,Biomass,2024.0,0.35
+Hamburg,Solar,2018.0,0.01053
+Hamburg,Solar,2019.0,0.0288
+Hamburg,Solar,2020.0,0.021123
+Hamburg,Solar,2021.0,0.134075
+Hamburg,Solar,2022.0,0.09244100000000001
+Hamburg,Solar,2023.0,0.13487
+Hamburg,Solar,2024.0,0.198526
+Hamburg,Solar,2025.0,0.0037099999999999998
+Hamburg,Wind onshore,2023.0,0.5
+Hessen,Biomass,2019.0,0.392
+Hessen,Biomass,2020.0,6.69201
+Hessen,Biomass,2021.0,11.0155
+Hessen,Biomass,2022.0,13.366
+Hessen,Biomass,2023.0,11.722000000000001
+Hessen,Biomass,2024.0,1.732
+Hessen,Biomass,2025.0,0.33
+Hessen,Hydropower,2021.0,0.022
+Hessen,Hydropower,2022.0,0.032
+Hessen,Solar,1900.0,0.0001
+Hessen,Solar,2008.0,0.055
+Hessen,Solar,2016.0,0.006580000000000001
+Hessen,Solar,2018.0,0.121895
+Hessen,Solar,2019.0,0.16846
+Hessen,Solar,2020.0,0.273115
+Hessen,Solar,2021.0,0.480265
+Hessen,Solar,2022.0,1.087998
+Hessen,Solar,2023.0,1.899866
+Hessen,Solar,2024.0,2.169307
+Hessen,Solar,2025.0,0.22331199999999998
+Hessen,Wind onshore,2019.0,1.3210000000000002
+Hessen,Wind onshore,2020.0,1.5
+Hessen,Wind onshore,2021.0,3.4
+Hessen,Wind onshore,2022.0,6.6
+Hessen,Wind onshore,2024.0,9.8
+Mecklenburg-Vorpommern,Biomass,2012.0,0.05
+Mecklenburg-Vorpommern,Biomass,2019.0,0.19
+Mecklenburg-Vorpommern,Biomass,2020.0,1.451
+Mecklenburg-Vorpommern,Biomass,2021.0,1.125
+Mecklenburg-Vorpommern,Biomass,2022.0,1.57
+Mecklenburg-Vorpommern,Biomass,2023.0,6.771999999999999
+Mecklenburg-Vorpommern,Biomass,2024.0,4.890000000000001
+Mecklenburg-Vorpommern,Hydropower,2020.0,0.022
+Mecklenburg-Vorpommern,Solar,2013.0,0.00967
+Mecklenburg-Vorpommern,Solar,2019.0,2.644685
+Mecklenburg-Vorpommern,Solar,2020.0,1.000225
+Mecklenburg-Vorpommern,Solar,2021.0,0.343877
+Mecklenburg-Vorpommern,Solar,2022.0,0.07235
+Mecklenburg-Vorpommern,Solar,2023.0,0.47091299999999997
+Mecklenburg-Vorpommern,Solar,2024.0,1.103445
+Mecklenburg-Vorpommern,Solar,2025.0,0.033365
+Mecklenburg-Vorpommern,Wind onshore,2018.0,0.6
+Mecklenburg-Vorpommern,Wind onshore,2019.0,15.0
+Mecklenburg-Vorpommern,Wind onshore,2020.0,0.5
+Mecklenburg-Vorpommern,Wind onshore,2021.0,10.549999999999999
+Mecklenburg-Vorpommern,Wind onshore,2022.0,9.35
+Mecklenburg-Vorpommern,Wind onshore,2023.0,27.101
+Mecklenburg-Vorpommern,Wind onshore,2024.0,16.55
+Mecklenburg-Vorpommern,Wind onshore,2025.0,0.5
+Niedersachsen,Biomass,2012.0,0.12
+Niedersachsen,Biomass,2014.0,0.026
+Niedersachsen,Biomass,2017.0,8.4
+Niedersachsen,Biomass,2018.0,0.385
+Niedersachsen,Biomass,2019.0,6.313
+Niedersachsen,Biomass,2020.0,5.4919
+Niedersachsen,Biomass,2021.0,4.2864
+Niedersachsen,Biomass,2022.0,10.1049
+Niedersachsen,Biomass,2023.0,32.1184
+Niedersachsen,Biomass,2024.0,6.374
+Niedersachsen,Biomass,2025.0,1.641
+Niedersachsen,Hydropower,2020.0,0.045
+Niedersachsen,Hydropower,2022.0,0.0185
+Niedersachsen,Hydropower,2023.0,0.09
+Niedersachsen,Hydropower,2024.0,0.0075
+Niedersachsen,Solar,2007.0,0.01092
+Niedersachsen,Solar,2014.0,0.05375
+Niedersachsen,Solar,2016.0,0.009689999999999999
+Niedersachsen,Solar,2017.0,0.00774
+Niedersachsen,Solar,2018.0,0.17556
+Niedersachsen,Solar,2019.0,0.61692
+Niedersachsen,Solar,2020.0,0.302699
+Niedersachsen,Solar,2021.0,0.704823
+Niedersachsen,Solar,2022.0,1.05247
+Niedersachsen,Solar,2023.0,2.00149
+Niedersachsen,Solar,2024.0,16.720236
+Niedersachsen,Solar,2025.0,0.400532
+Niedersachsen,Wind onshore,2019.0,15.66
+Niedersachsen,Wind onshore,2020.0,48.955
+Niedersachsen,Wind onshore,2021.0,58.275
+Niedersachsen,Wind onshore,2022.0,40.176
+Niedersachsen,Wind onshore,2023.0,159.85920000000002
+Niedersachsen,Wind onshore,2024.0,254.92000000000002
+Niedersachsen,Wind onshore,2025.0,25.1
+Nordrhein-Westfalen,Biomass,2003.0,0.1
+Nordrhein-Westfalen,Biomass,2008.0,0.11
+Nordrhein-Westfalen,Biomass,2010.0,0.42
+Nordrhein-Westfalen,Biomass,2011.0,0.0078
+Nordrhein-Westfalen,Biomass,2013.0,0.038
+Nordrhein-Westfalen,Biomass,2016.0,0.6
+Nordrhein-Westfalen,Biomass,2017.0,0.39
+Nordrhein-Westfalen,Biomass,2019.0,1.574
+Nordrhein-Westfalen,Biomass,2020.0,11.1125
+Nordrhein-Westfalen,Biomass,2021.0,7.153
+Nordrhein-Westfalen,Biomass,2022.0,8.828
+Nordrhein-Westfalen,Biomass,2023.0,12.3191
+Nordrhein-Westfalen,Biomass,2024.0,9.551400000000001
+Nordrhein-Westfalen,Biomass,2025.0,2.15
+Nordrhein-Westfalen,Hydropower,2019.0,0.0055
+Nordrhein-Westfalen,Hydropower,2020.0,2.06
+Nordrhein-Westfalen,Hydropower,2021.0,0.62
+Nordrhein-Westfalen,Hydropower,2022.0,0.01
+Nordrhein-Westfalen,Hydropower,2023.0,0.19449999999999998
+Nordrhein-Westfalen,Hydropower,2024.0,0.027
+Nordrhein-Westfalen,Solar,2001.0,0.00432
+Nordrhein-Westfalen,Solar,2007.0,0.006665
+Nordrhein-Westfalen,Solar,2011.0,0.01014
+Nordrhein-Westfalen,Solar,2017.0,0.027270000000000003
+Nordrhein-Westfalen,Solar,2018.0,0.12083
+Nordrhein-Westfalen,Solar,2019.0,1.09292
+Nordrhein-Westfalen,Solar,2020.0,0.663364
+Nordrhein-Westfalen,Solar,2021.0,2.2659249999999997
+Nordrhein-Westfalen,Solar,2022.0,2.101362
+Nordrhein-Westfalen,Solar,2023.0,4.492712
+Nordrhein-Westfalen,Solar,2024.0,8.495708
+Nordrhein-Westfalen,Solar,2025.0,0.804126
+Nordrhein-Westfalen,Wind onshore,2013.0,0.08
+Nordrhein-Westfalen,Wind onshore,2019.0,2.4012000000000002
+Nordrhein-Westfalen,Wind onshore,2020.0,33.85
+Nordrhein-Westfalen,Wind onshore,2021.0,34.094
+Nordrhein-Westfalen,Wind onshore,2022.0,35.363
+Nordrhein-Westfalen,Wind onshore,2023.0,119.12
+Nordrhein-Westfalen,Wind onshore,2024.0,124.4351
+Nordrhein-Westfalen,Wind onshore,2025.0,11.2
+Rheinland-Pfalz,Biomass,2019.0,0.08
+Rheinland-Pfalz,Biomass,2020.0,1.4308999999999998
+Rheinland-Pfalz,Biomass,2021.0,3.5980000000000003
+Rheinland-Pfalz,Biomass,2022.0,2.5445
+Rheinland-Pfalz,Biomass,2023.0,1.86574
+Rheinland-Pfalz,Biomass,2024.0,1.3305
+Rheinland-Pfalz,Hydropower,2020.0,0.011
+Rheinland-Pfalz,Solar,2004.0,0.017
+Rheinland-Pfalz,Solar,2009.0,0.05974
+Rheinland-Pfalz,Solar,2014.0,0.0045000000000000005
+Rheinland-Pfalz,Solar,2016.0,0.0010500000000000002
+Rheinland-Pfalz,Solar,2018.0,0.0028799999999999997
+Rheinland-Pfalz,Solar,2019.0,0.442702
+Rheinland-Pfalz,Solar,2020.0,0.06772500000000001
+Rheinland-Pfalz,Solar,2021.0,0.391195
+Rheinland-Pfalz,Solar,2022.0,0.8657299999999999
+Rheinland-Pfalz,Solar,2023.0,1.315807
+Rheinland-Pfalz,Solar,2024.0,1.666917
+Rheinland-Pfalz,Solar,2025.0,0.361185
+Rheinland-Pfalz,Wind onshore,2017.0,0.8999999999999999
+Rheinland-Pfalz,Wind onshore,2019.0,15.6
+Rheinland-Pfalz,Wind onshore,2020.0,1.1
+Rheinland-Pfalz,Wind onshore,2021.0,10.25
+Rheinland-Pfalz,Wind onshore,2022.0,16.95
+Rheinland-Pfalz,Wind onshore,2023.0,10.799999999999999
+Rheinland-Pfalz,Wind onshore,2024.0,51.350899999999996
+Rheinland-Pfalz,Wind onshore,2025.0,3.6
+Saarland,Solar,2019.0,0.001
+Saarland,Solar,2020.0,0.0014860000000000001
+Saarland,Solar,2021.0,0.11003500000000001
+Saarland,Solar,2022.0,0.068465
+Saarland,Solar,2023.0,0.14768399999999998
+Saarland,Solar,2024.0,0.216936
+Saarland,Solar,2025.0,0.01542
+Saarland,Wind onshore,2022.0,5.0
+Saarland,Wind onshore,2024.0,2.7
+Sachsen,Biomass,2019.0,0.265
+Sachsen,Biomass,2020.0,0.003
+Sachsen,Biomass,2021.0,4.583
+Sachsen,Biomass,2022.0,0.9700000000000001
+Sachsen,Biomass,2023.0,2.557
+Sachsen,Biomass,2024.0,1.7429999999999999
+Sachsen,Hydropower,2021.0,0.3
+Sachsen,Hydropower,2023.0,0.012
+Sachsen,Hydropower,2024.0,0.415
+Sachsen,Solar,2014.0,0.0018
+Sachsen,Solar,2018.0,0.5322800000000001
+Sachsen,Solar,2019.0,0.2786
+Sachsen,Solar,2020.0,0.0451
+Sachsen,Solar,2021.0,0.10722000000000001
+Sachsen,Solar,2022.0,0.63802
+Sachsen,Solar,2023.0,0.839941
+Sachsen,Solar,2024.0,0.884518
+Sachsen,Solar,2025.0,0.16743
+Sachsen,Wind onshore,2019.0,2.0
+Sachsen,Wind onshore,2020.0,4.38
+Sachsen,Wind onshore,2021.0,7.48
+Sachsen,Wind onshore,2022.0,1.1157
+Sachsen,Wind onshore,2023.0,9.85
+Sachsen,Wind onshore,2024.0,14.556
+Sachsen-Anhalt,Biomass,2020.0,1.13
+Sachsen-Anhalt,Biomass,2021.0,1.151
+Sachsen-Anhalt,Biomass,2022.0,0.537
+Sachsen-Anhalt,Biomass,2023.0,1.248
+Sachsen-Anhalt,Biomass,2024.0,0.835
+Sachsen-Anhalt,Biomass,2025.0,0.8340000000000001
+Sachsen-Anhalt,Hydropower,2023.0,0.0018
+Sachsen-Anhalt,Solar,2008.0,0.00315
+Sachsen-Anhalt,Solar,2012.0,0.08541
+Sachsen-Anhalt,Solar,2014.0,0.029670000000000002
+Sachsen-Anhalt,Solar,2019.0,1.6033600000000001
+Sachsen-Anhalt,Solar,2020.0,0.58287
+Sachsen-Anhalt,Solar,2021.0,0.160982
+Sachsen-Anhalt,Solar,2022.0,1.1486589999999999
+Sachsen-Anhalt,Solar,2023.0,0.9469319999999999
+Sachsen-Anhalt,Solar,2024.0,1.170102
+Sachsen-Anhalt,Solar,2025.0,0.079845
+Sachsen-Anhalt,Wind onshore,2019.0,23.7
+Sachsen-Anhalt,Wind onshore,2020.0,23.104
+Sachsen-Anhalt,Wind onshore,2021.0,35.05
+Sachsen-Anhalt,Wind onshore,2022.0,64.8
+Sachsen-Anhalt,Wind onshore,2023.0,82.0
+Sachsen-Anhalt,Wind onshore,2024.0,73.36
+Schleswig-Holstein,Biomass,2015.0,0.265
+Schleswig-Holstein,Biomass,2019.0,4.537
+Schleswig-Holstein,Biomass,2020.0,1.865
+Schleswig-Holstein,Biomass,2021.0,1.1945000000000001
+Schleswig-Holstein,Biomass,2022.0,2.123
+Schleswig-Holstein,Biomass,2023.0,1.955
+Schleswig-Holstein,Biomass,2024.0,1.76
+Schleswig-Holstein,Biomass,2025.0,0.7
+Schleswig-Holstein,Hydropower,2021.0,0.03
+Schleswig-Holstein,Solar,2013.0,0.00936
+Schleswig-Holstein,Solar,2017.0,0.00335
+Schleswig-Holstein,Solar,2019.0,0.09755000000000001
+Schleswig-Holstein,Solar,2020.0,0.10085
+Schleswig-Holstein,Solar,2021.0,0.095403
+Schleswig-Holstein,Solar,2022.0,0.294232
+Schleswig-Holstein,Solar,2023.0,1.23329
+Schleswig-Holstein,Solar,2024.0,15.328225000000002
+Schleswig-Holstein,Solar,2025.0,0.1028
+Schleswig-Holstein,Wind onshore,2019.0,1.27
+Schleswig-Holstein,Wind onshore,2020.0,56.76
+Schleswig-Holstein,Wind onshore,2021.0,96.9275
+Schleswig-Holstein,Wind onshore,2022.0,81.5906
+Schleswig-Holstein,Wind onshore,2023.0,136.6094
+Schleswig-Holstein,Wind onshore,2024.0,110.713
+Thüringen,Biomass,2020.0,3.358
+Thüringen,Biomass,2021.0,1.376
+Thüringen,Biomass,2022.0,0.772
+Thüringen,Biomass,2023.0,12.876
+Thüringen,Biomass,2024.0,0.222
+Thüringen,Hydropower,2021.0,0.00895
+Thüringen,Solar,2004.0,0.00512
+Thüringen,Solar,2008.0,0.0022
+Thüringen,Solar,2016.0,0.0043
+Thüringen,Solar,2018.0,0.00537
+Thüringen,Solar,2019.0,1.01015
+Thüringen,Solar,2020.0,0.11556000000000001
+Thüringen,Solar,2021.0,0.07435699999999999
+Thüringen,Solar,2022.0,0.09863
+Thüringen,Solar,2023.0,1.8028570000000002
+Thüringen,Solar,2024.0,0.989481
+Thüringen,Solar,2025.0,0.022678
+Thüringen,Wind onshore,2019.0,11.1
+Thüringen,Wind onshore,2020.0,13.4
+Thüringen,Wind onshore,2021.0,11.0
+Thüringen,Wind onshore,2022.0,2.50081
+Thüringen,Wind onshore,2024.0,13.0006

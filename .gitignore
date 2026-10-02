@@ -1,0 +1,8 @@
+# Raw solar registry file (~723MB compressed / ~3.9GB uncompressed) - too large for git.
+# Re-download from the source snapshot: https://doi.org/10.5281/zenodo.14843222
+# (bnetza_mastr_solar_raw.csv.zip) and place it in data/raw/ to reproduce the pipeline.
+data/raw/bnetza_mastr_solar_raw.csv.zip
+data/raw/*_tmp/
+*.pyc
+__pycache__/
+.DS_Store
